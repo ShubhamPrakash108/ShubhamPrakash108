@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Prakash</h1>
 <h3 align="center">A dedicated Deep Learning explorer</h3>
-<img align="right" alt="coding" width="500" src="https://media1.tenor.com/m/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/zNZjeqK_FxwAAAAC/code-works-code-not-working.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamprakash108&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamprakash108" /> </p>
 
