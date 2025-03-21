@@ -6,12 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamprakash108" alt="shubhamprakash108" /></a> </p>
 
-- 🌱 I’m currently learning **Generative Adversarial Network**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamPrakash108?tab=repositories](https://github.com/ShubhamPrakash108?tab=repositories)
 
 - 💬 Ask me about **deep learning, machine learning and android development**
-
+  
 - 📫 How to reach me **shubhamprakash2025@gmail.com**
 
 - ⚡ Fun fact **I love exploring🕵️‍♀️**
