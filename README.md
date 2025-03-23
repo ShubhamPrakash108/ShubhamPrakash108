@@ -85,7 +85,7 @@ Deep Learning Tech Stack
 
 <div align="center">
 <a href="https://github.com/ShubhamPrakash108">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamprakash108&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=64FFDA&title_color=38B2AC" width="58%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamprakash108&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=64FFDA&title_color=38B2AC&count_private=true&cache_seconds=1800" width="58%" alt="Top Languages" />
 </a>
 </div>
 
@@ -100,8 +100,6 @@ Deep Learning Tech Stack
 <a href="https://github.com/ShubhamPrakash108">
 <img src="https://activity-graph.herokuapp.com/graph?username=shubhamprakash108&theme=react-dark&hide_border=true&bg_color=0D1117&color=64FFDA&line=38B2AC&point=64FFDA" width="100%"/>
 </a>
-
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,29,38,42&height=100&section=footer&animation=twinkling" width="100%" alt="footer" />
