@@ -117,15 +117,13 @@ Retrieval-augmented generation chatbot with semantic search over custom document
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShubhamPrakash108&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&rank_icon=github" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamPrakash108&layout=compact&hide_border=true&theme=default&langs_count=6" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamPrakash108&theme=transparent" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ShubhamPrakash108&hide_border=true&theme=default&date_format=j%20M%5B%20Y%5D" />
+<img src="https://streak-stats.demolab.com?user=ShubhamPrakash108&hide_border=true&theme=transparent&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
